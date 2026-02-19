@@ -1,6 +1,6 @@
 // page.tsx
 import { Suspense } from "react";
-import BookAppointmentClient from "./BookAppointmentClient/page";
+import BookAppointmentClient from "./BookAppointmentClient/BookAppointmentClient";
 
 export default function Page() {
   return (
